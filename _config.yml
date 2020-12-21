@@ -93,13 +93,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "minjoon choi"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : ""
+  location         : "Seoul, Republic of Korea"
   email            :
   links:
-    - label: "Email"
+    - label: "mjchois@gmail.com"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
     - label: "Website"
