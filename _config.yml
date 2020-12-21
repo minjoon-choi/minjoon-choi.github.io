@@ -1,1 +1,5 @@
+name: '블로그 제목' 
+description: 'test'
+meta_description: 'test'
+baseurl: '/minjoon-choi/'
 theme: jekyll-theme-minimal
